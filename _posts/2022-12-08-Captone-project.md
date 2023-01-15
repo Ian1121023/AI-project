@@ -6,7 +6,7 @@ category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-期末專題實作: 股票交易強化學習
+期末專題實作: ChatGPT實作
 
 ---
 ## ChatGPT實作
