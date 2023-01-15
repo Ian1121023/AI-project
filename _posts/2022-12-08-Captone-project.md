@@ -9,16 +9,21 @@ tags: [jekyll, ai]
 期末專題實作: 股票交易強化學習
 
 ---
-## 股票交易強化學習
+## ChatGPT實作
 
-### 步驟說明
-
-1. 下載股票資料： download_stock_quote.py
-
-
+### 製作主題
+1.利用ChatGPT做出一段故事，同時利用ChatGPT對故事的細節進行OpenAI官網的DALL·E的配圖。
+2.將ChatGPT訓練為TRPG的故事GM。
 
 ---
-### 系統方塊圖
+### 步驟說明
+
+1.進入[ChatGPT網站](https://chat.openai.com/chat/5f83012c-2e07-4ce4-92cb-fc1971783ffe)
+2.進入[DALL·E](https://labs.openai.com/)
+3.開始製作故事
+
+---
+### 結果展示
 系統流程圖<br>
 ![]()
 
