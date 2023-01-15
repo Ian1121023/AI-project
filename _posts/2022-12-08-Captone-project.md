@@ -24,28 +24,33 @@ tags: [jekyll, ai]
 
 ---
 ### 結果展示
-一開始我令ChatGPT索要一個故事，但效果不是很好<br>
+* 一開始我令ChatGPT索要一個故事，但效果不是很好<br>
 ![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-1.jpg)
+* 所以我採用讓ChatGPT自身為故事主角的方式進行<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-2.jpg)
+* 接下來我讓他繼續他的故事<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-3.jpg)
+* 讓他以對話方式呈現<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-4.jpg)
+* 在他做出自己想出的故事時，讓他根據自己的故事做延伸<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-5.jpg)
+* 在結束一個事件後觀察他接下來的行動<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-7.jpg)
+* 使他說明他所在的組織外觀<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-8.jpg)
+* 根據他的描述，利用DALL-E完成圖畫<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.18.52%20-.png)
+* 使他說明他所扮演的小男孩外觀<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-9.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-10.jpg)
+* 根據他的描述，利用DALL-E完成圖畫<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.24.20%20-.png)
 
-AI模型說明<br>
-![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/stock_dqn.png?raw=true)
+
 
 ---
-### 製作步驟
-
-1. 建立資料集 dataset
-2. 移植程式to Kaggle
-3. Kaggle上訓練模型
-4. Kaggle上測試模型
-
----
-### 系統測試及成果展示
+### 結論
 
 
-<iframe width="835" height="470" src="https://www.youtube.com/embed/DtzN5vtEgOk" title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-<br>
-
-*This site was last updated {{ site.time | date: "%B %d, %Y" }}.*
+* ChatGPT是一個潛力無窮的AI，他有著諸多強大的功能，我只是單純的提出幾個關鍵詞，他就能回答出許多細節，而這用的還是免費版本的。所以我相信未來一定會有ChatGPT的一席之地。
 
