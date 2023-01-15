@@ -25,26 +25,36 @@ tags: [jekyll, ai]
 ---
 ### 結果展示
 * 一開始我令ChatGPT索要一個故事，但效果不是很好<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-1.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-1.jpg)
+
 * 所以我採用讓ChatGPT自身為故事主角的方式進行<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-2.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-2.jpg)
+
 * 接下來我讓他繼續他的故事<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-3.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-3.jpg)
+
 * 讓他以對話方式呈現<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-4.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-4.jpg)
+
 * 在他做出自己想出的故事時，讓他根據自己的故事做延伸<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-5.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-5.jpg)
+
 * 在結束一個事件後觀察他接下來的行動<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-7.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-7.jpg)
+
 * 使他說明他所在的組織外觀<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-8.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-8.jpg)
+
 * 根據他的描述，利用DALL-E完成圖畫<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.18.52%20-.png)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.18.52%20-.png)
+
 * 使他說明他所扮演的小男孩外觀<br>
 ![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-9.jpg)<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-10.jpg)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-10.jpg)
+
 * 根據他的描述，利用DALL-E完成圖畫<br>
-![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.24.20%20-.png)<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/DALL%C2%B7E%202023-01-14%2010.24.20%20-.png)
+
 
 
 
