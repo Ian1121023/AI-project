@@ -12,15 +12,15 @@ tags: [jekyll, ai]
 ## ChatGPT實作
 
 ### 製作主題
-1.利用ChatGPT做出一段故事，同時利用ChatGPT對故事的細節進行OpenAI官網的DALL·E的配圖。
-2.將ChatGPT訓練為TRPG的故事GM。
+1. 利用ChatGPT做出一段故事，同時利用ChatGPT對故事的細節進行OpenAI官網的DALL·E的配圖。
+2. 將ChatGPT訓練為TRPG的故事GM。
 
 ---
 ### 步驟說明
 
-1.進入[ChatGPT網站](https://chat.openai.com/chat/5f83012c-2e07-4ce4-92cb-fc1971783ffe)
-2.進入[DALL·E](https://labs.openai.com/)
-3.開始製作故事
+1. 進入[ChatGPT網站](https://chat.openai.com/chat/5f83012c-2e07-4ce4-92cb-fc1971783ffe)
+2. 進入[DALL·E](https://labs.openai.com/)
+3. 開始製作故事
 
 ---
 ### 結果展示
