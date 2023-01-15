@@ -12,8 +12,8 @@ tags: [jekyll, ai]
 ## ChatGPT實作
 
 ### 製作主題
-1. 利用ChatGPT做出一段故事，同時利用ChatGPT對故事的細節進行OpenAI官網的DALL·E的配圖。
-2. 將ChatGPT訓練為TRPG的故事GM。
+* 利用ChatGPT做出一段故事，同時利用ChatGPT對故事的細節進行OpenAI官網的DALL·E的配圖。
+
 
 ---
 ### 步驟說明
@@ -24,8 +24,8 @@ tags: [jekyll, ai]
 
 ---
 ### 結果展示
-系統流程圖<br>
-![]()
+一開始我令ChatGPT索要一個故事，但效果不是很好<br>
+![](https://github.com/Ian1121023/AI-project/blob/gh-pages/images/ChatGPT-1.jpg)
 
 AI模型說明<br>
 ![](https://github.com/rkuo2000/AI-course/blob/gh-pages/images/stock_dqn.png?raw=true)
